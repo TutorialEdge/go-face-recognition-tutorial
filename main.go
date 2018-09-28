@@ -8,7 +8,7 @@ import (
 	"github.com/Kagami/go-face"
 )
 
-const dataDir = "testdata"
+const dataDir = "images"
 
 func main() {
 	fmt.Println("Facial Recognition System v0.01")
